@@ -1,0 +1,4 @@
+interface:
+  display_name: "天津大学硕士论文写作"
+  short_description: "依据所附天津大学格式规定，协助硕士论文写作、排版与逐项审查"
+  default_prompt: "请使用 $tju-master-thesis，根据我的研究材料和学位类型，协助完成天津大学硕士论文写作或格式检查。"
